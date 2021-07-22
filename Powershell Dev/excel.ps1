@@ -1,0 +1,49 @@
+﻿$ExcelObject=New-Object -ComObject excel.application
+$ExcelObject.visible=$true
+$ExcelFiles=Get-ChildItem -Path "\\hqsbvnxfile1\its\data\DesktopSupport\espu\database"
+
+$Workbook=$ExcelObject.Workbooks.add()
+$Worksheet=$Workbook.Sheets.Item("Inventory")
+
+foreach($ExcelFile in $ExcelFiles){
+ 
+$Everyexcel=$ExcelObject.Workbooks.Open($ExcelFile.FullName)
+$Everysheet=$Everyexcel.sheets.item(1)
+$Everysheet.Copy($Worksheet)
+$Everyexcel.Close()
+ 
+}
+$Workbook.SaveAs("C:\Users\grlewis\Desktop\merge.xlsx")
+$ExcelObject.Quit()
+# SIG # Begin signature block
+# MIIFjQYJKoZIhvcNAQcCoIIFfjCCBXoCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
+# gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUd0+mAdniiKthGUuyNe516S1h
+# j8SgggMnMIIDIzCCAgugAwIBAgIQQLH43sgH4IFIu94Hs10bXjANBgkqhkiG9w0B
+# AQsFADAbMRkwFwYDVQQDDBBncmxld2lzQG5naHMuY29tMB4XDTE5MDIxODE2MTcz
+# N1oXDTIwMDIxODE2MzczN1owGzEZMBcGA1UEAwwQZ3JsZXdpc0BuZ2hzLmNvbTCC
+# ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALW1WUSF3b+IwTQ7gk0Wx5Ap
+# 12KUN8LgBQo7IdtDz6HDG/d3EU2gj27qjktOJI9ChnDdp4G5/8hNVPb9s2eIh5ae
+# 1Cc/RHwFLu3WlIiEs5p7xbHprqR4gg8J3eEjHcY2FJxf+1NyLeov3CLWYRXfHgef
+# ZqI0WJ1PEO6Jv5/VVWw0oMp2Od04PfH/rymHRh0yFSueOmfO/zxKcSM9/21C/n1Y
+# B8ffpznvlY0smaikTkC7dubkX6GHU64ZDI69esh/KvPyX0m6e08130aIbaN3me0i
+# lNmlBBqA52mVSIarDzY50HQHHF25zqgWqwYs0RSrwO20xwR33l2z7O3MpKZHGgkC
+# AwEAAaNjMGEwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMBsG
+# A1UdEQQUMBKCEGdybGV3aXNAbmdocy5jb20wHQYDVR0OBBYEFB3t05KWOpdR18AN
+# FF5Q6CIVBV94MA0GCSqGSIb3DQEBCwUAA4IBAQCU54GYx7ycvM7LHjgchGu2Gwak
+# rY2AFJndoGyWB2D/B+uBpI3RxQKWZXaeEpKyUxGWfiFKyHLBfesNyCawzBIzkXxR
+# QFZkS532tq9snNHmrX+dhw3cH5/ww/VwWyrvLq19I4wCS+1BTCwJUbetigDv+zlT
+# bf/wXP5h13OC6clYRbTq0mTglqYXBlDVjFOwkI6MpvXwoKarggJ1N71HA2TqQpWU
+# TA+6WgfEPiZDzpLig5ri6wSu1oVVq+YhP1yPDq+2OQ03SM04GdaUkWVkZnGqS6Ev
+# d34IsRreZ6jF5LvSolXkXXfK9/1V11928ne/51iwjgMn7R5V2rhR+EnME6cvMYIB
+# 0DCCAcwCAQEwLzAbMRkwFwYDVQQDDBBncmxld2lzQG5naHMuY29tAhBAsfjeyAfg
+# gUi73gezXRteMAkGBSsOAwIaBQCgeDAYBgorBgEEAYI3AgEMMQowCKACgAChAoAA
+# MBkGCSqGSIb3DQEJAzEMBgorBgEEAYI3AgEEMBwGCisGAQQBgjcCAQsxDjAMBgor
+# BgEEAYI3AgEVMCMGCSqGSIb3DQEJBDEWBBRJd/AMEUN6z7m5FTcpPv1kQ9EmsTAN
+# BgkqhkiG9w0BAQEFAASCAQAityFW8/q9709ShILUHdPRy07+1aNZNhHsOz8cy3Aq
+# YSvJruczSVDFLwq8LX5nUWcBzkMOOydaFJY0gEtfjisw6bLywyg6wb3cg9zLHzIX
+# QQcZcyk7NsAdxwrOcswCN75C+oE2V8QMxngNElu3rogqR5MgIWeZRFP9wS7j5hHg
+# DUbsqOR8JW9SCrN5xly/qjRSFB1/jCET4T9bvnLQsKaitn3vCX+CsrH0CjSw+bd+
+# WHrmIKUAPX1fOYBv94Mz5OuQHg/EBhtP8ejoOduwxktLfbsECkQai0qgqmZRlBsU
+# FBbC779sKDHqbqJCFN19OLlN6iZ2UztfD+iqlsjXIqb2
+# SIG # End signature block

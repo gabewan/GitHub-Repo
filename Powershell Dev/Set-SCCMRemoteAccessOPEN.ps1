@@ -1,0 +1,1 @@
+﻿HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SMS\Client\Client Components\Remote Control

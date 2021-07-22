@@ -1,0 +1,8 @@
+﻿$Username = Read-Host ‘Enter Username’
+$Pdce = (Get-AdDomain).PDCEmulator
+$GweParams = @{
+     ‘Computername’ = $Pdce
+     ‘LogName’ = ‘Security’
+     ‘FilterXPath’ = "*[System[EventID=4740] and EventData[Data[@Name='TargetUserName']='$Username']]"
+}
+$Events = Get-WinEvent @GweParams

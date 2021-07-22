@@ -1,0 +1,46 @@
+﻿$printerportlist = import-csv C:\temp\printerport1.csv
+
+#Loop through each row in the CSV file
+
+Foreach($port in $printerportlist){
+#set a name variable for the printer
+$name = "” + $port.ip
+
+
+#Create the printer port
+#write-host "$name is active"
+Add-PrinterPort -ComputerName vmctxprn -Name $name -PrinterHostAddress $name -ErrorAction Continue
+
+}
+# SIG # Begin signature block
+# MIIFjQYJKoZIhvcNAQcCoIIFfjCCBXoCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
+# gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUFQNieR5YBjI6g5Je/wKYFhIg
+# d/KgggMnMIIDIzCCAgugAwIBAgIQQLH43sgH4IFIu94Hs10bXjANBgkqhkiG9w0B
+# AQsFADAbMRkwFwYDVQQDDBBncmxld2lzQG5naHMuY29tMB4XDTE5MDIxODE2MTcz
+# N1oXDTIwMDIxODE2MzczN1owGzEZMBcGA1UEAwwQZ3JsZXdpc0BuZ2hzLmNvbTCC
+# ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALW1WUSF3b+IwTQ7gk0Wx5Ap
+# 12KUN8LgBQo7IdtDz6HDG/d3EU2gj27qjktOJI9ChnDdp4G5/8hNVPb9s2eIh5ae
+# 1Cc/RHwFLu3WlIiEs5p7xbHprqR4gg8J3eEjHcY2FJxf+1NyLeov3CLWYRXfHgef
+# ZqI0WJ1PEO6Jv5/VVWw0oMp2Od04PfH/rymHRh0yFSueOmfO/zxKcSM9/21C/n1Y
+# B8ffpznvlY0smaikTkC7dubkX6GHU64ZDI69esh/KvPyX0m6e08130aIbaN3me0i
+# lNmlBBqA52mVSIarDzY50HQHHF25zqgWqwYs0RSrwO20xwR33l2z7O3MpKZHGgkC
+# AwEAAaNjMGEwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMBsG
+# A1UdEQQUMBKCEGdybGV3aXNAbmdocy5jb20wHQYDVR0OBBYEFB3t05KWOpdR18AN
+# FF5Q6CIVBV94MA0GCSqGSIb3DQEBCwUAA4IBAQCU54GYx7ycvM7LHjgchGu2Gwak
+# rY2AFJndoGyWB2D/B+uBpI3RxQKWZXaeEpKyUxGWfiFKyHLBfesNyCawzBIzkXxR
+# QFZkS532tq9snNHmrX+dhw3cH5/ww/VwWyrvLq19I4wCS+1BTCwJUbetigDv+zlT
+# bf/wXP5h13OC6clYRbTq0mTglqYXBlDVjFOwkI6MpvXwoKarggJ1N71HA2TqQpWU
+# TA+6WgfEPiZDzpLig5ri6wSu1oVVq+YhP1yPDq+2OQ03SM04GdaUkWVkZnGqS6Ev
+# d34IsRreZ6jF5LvSolXkXXfK9/1V11928ne/51iwjgMn7R5V2rhR+EnME6cvMYIB
+# 0DCCAcwCAQEwLzAbMRkwFwYDVQQDDBBncmxld2lzQG5naHMuY29tAhBAsfjeyAfg
+# gUi73gezXRteMAkGBSsOAwIaBQCgeDAYBgorBgEEAYI3AgEMMQowCKACgAChAoAA
+# MBkGCSqGSIb3DQEJAzEMBgorBgEEAYI3AgEEMBwGCisGAQQBgjcCAQsxDjAMBgor
+# BgEEAYI3AgEVMCMGCSqGSIb3DQEJBDEWBBTrNGcYsPiWJVbCVSe8jk/x8kONejAN
+# BgkqhkiG9w0BAQEFAASCAQAoqRlkKe5cmCid7bnwn6LTYPebnpGEr46lCYRRQaBJ
+# TkqA6kz6nKj1w7Dqpwt1AeFEsDaHl0zs93SADiD1nJf84EwG4i+QeBN/ogrJWLJa
+# ArtT2gytuhA4hB4HovaWKmo68oLwHYSbCtRY+FTk928EiORAjMTb6UlxGVq+qsG3
+# Mgr/u9vTKR6mnXEabIz0VTkagJP+/g7+ahltuDCSgW54ZDTJVC03oA3tjRDhzGmp
+# 9MWVbH1Dl02KkLEAD4ETggVx5pFLPijigYYyLSN2fb2LF2H4QD1lt+1/mllypDdu
+# aLgtifl3iMjDac/oIL4SSFBYvdXIDnIp1WALCd2v+R2W
+# SIG # End signature block

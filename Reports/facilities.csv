@@ -1,0 +1,407 @@
+facility,buildingcode,department
+Main - ACN - Suite 730 NGG,101,ACN
+Main - N2G OR - Charge Nurse; Back Desk Area,101,2CN
+Main - N2G OR - Front Desk,101,2FD
+Main - N2G OR - Nurses station,101,2NS
+Main - N2G (OR?) - pharmacy,101,2PH
+Main - N2G OR - PST Clinic Visit Rooms; PST Hall - Lab Tech's,101,2VR
+Main - N3G - CC Pharmacy,101,3PH
+Main - C2A- RGHC,101,C2A
+Main - C2B - RGHC,101,C2B
+Main - C3A - RGHC,101,C3A
+Main - C3B - RGHC,101,C3B
+Main - Critical Care Pharmacy,101,CCP
+Main - CDI (Clinical Documentation Improvement) Various Floors + Dept,101,CDI
+Main - N1G - Classroom 1,101,CL1
+Main - N1G - Classroom 2,101,CL2
+Main - N1G -CMU (PLACe),101,CMU
+Main - N1G - Classroom 3,101,CR1
+Case Management GSV,101,CSM
+Main - N2G OR - Endo Pre & post beds,101,EPB
+Main - N1G - Endo (incl. Prep Recovery),101,EPR
+Main - N1G - Financial Counseling,101,FIN
+Main - HIM (Medical Records) - Basement,101,HIM
+Main - N3G - ICU,101,ICU
+Main - N1G - Information Desk,101,INF
+Main - N1G - IR Prep Recovery,101,IRP
+Main - N1G - Lab Draw,101,s
+Main - N1G - Library,101,LIB
+Gainesville Loaner Laptops,101,LLP
+Main - NGG - Materials,101,MAT
+Main - N1G - Morgue,101,MOR
+Main - N1G - MRI,101,MRI
+Main - N4G,101,N4G
+Main - N5G,101,N5G
+Main - N6G,101,N6G
+Main - N1G - Acute Care Office Space,101,NAC
+Main - N1G - CT,101,NCT
+Main - NGG - North Tower Open Office,101,NOO
+Main - N1G - Reading Rooms,101,NRR
+Main - N1G - Nuclear Med,101,NUC
+Main - N1G - Ultrasound,101,NUS
+Main - N2G OR - Procedure Area,101,OPA
+Main - N2G - PACU,101,PAC
+Main - N2G OR - Phone Screeners,101,PSO
+Main - N1G - PST,101,PST
+Main - N1G - radiology Admin Area,101,RAD
+Main - N1G -Breast Imaging,101,RAD
+Main - N1G -Diagnostic area,101,RAD
+Main - N1G - Radiation Classroom,101,RCR
+Main - N1G - Registration,101,REG
+Main - N1G - radiology Registration,101,RRG
+Main - NGG - Sterile Processing,101,SPD
+Main N1 Volunteers,101,VOL
+Main - S1G - ACNO,102,ACN
+South Ground - ACNO,102,ANO
+Main SG - Dietary Gainesville,102,CAF
+Main - S1 - Case Manager,102,CMG
+Main - S1E - central staffing,102,CST
+Main - S1E - customer services,102,CSV
+Main - Diabetes Education ,102,DED
+Main - S1D - dialysis,102,DYL
+"Main - S1 - ER / ED, ED Admin Offices",102,EAO
+Main - S1 - ER / EAU - Express Admission Unit,102,EAU
+"Main - S1 - ED F, G, H Areas",102,EFG
+"Main - S1 - ER / ED, ED Registration",102,emor
+Main - S1 - Emergency Department,102,EMS
+Main - S1 - ER / ED Observation Unit,102,EOU
+Main SG - EVS,102,EVS
+Main - SG - Pharmacy,102,GPH
+Main - S1E - GSV Infusion,102,GSV
+Main - S1D - inpatient medicine,102,IMD
+Main - S1D - inpatient neurology,102,INR
+Main - S1D - infusiuon pharmacy,102,IPH
+Main SG - Inpatient Med,102,IPM
+Main - S1D - interventional radiology,102,IRD
+Main - S1E-IV TEAM,102,IVT
+Main - SG - Medical Staff Services,102,MED
+Main - S1D - neurophysiology,102,NPY
+Main - SG - GSV OCCUPATIONAL HEALTH - SPTG,102,OCC
+Main - SG - Plant Ops,102,OPS
+Main - PLACe (south patient tower),102,PLC
+Main - S1D - palliative medicine,102,PMD
+Main - S1E - radiology CT,102,RCT
+Main - S1D - registration,102,REG
+Main - SG - Respiratory Therapy,102,RSP
+Main - S1B - Medical,102,S1B
+Main - S2B - Mother Baby,102,S2B
+Main - S2D - Woody Stewart,102,S2D
+Main - S2E - Telemetry,102,S2E
+Main - S3B - Pediatrics,102,S3B
+Main - S3D - Overflow (To Be Occuppied Soon),102,S3D
+Main - S3E - Med/Cardiac/CCU,102,S3E
+Main - S4B - Rehab,102,S4B
+"Main - S4D - Med/Surgical, WOC,Diabetes ED,",102,S4D
+Main - S4E - Med/Surgical,102,S4E
+"Main - S5D - Acute Care, Oncology",102,S5D
+"Main - S5E - Oncology, satelite pharmacy",102,S5E
+Medical Oncology S5E,102,S5E
+Main - South Ground - Switchboard,102,SWB
+Main - S2 Vital Records,102,VRD
+Main-N1G- Reading Rooms,102,
+Main - S1 - Security,102,SEC
+Laurelwood Inpatient Units,103,LW4
+NGPG PSYCHIATRY GAINESVILLE,103,NGP
+Main - SG - ICN - Womens & Children - ground,104,ICN
+Main - Labor and Delivery - Antepartum Rooms,104,LDA
+Main - Labor and Delivery Rooms- Gainesville,104,LDG
+Main - Labor and Delivery - Recovery Area,104,LDR
+Main - Labor and Delivery - Surgery Suites,104,LDS
+Main - Labor and Delivery - Triage Rooms,104,LDT
+Main - Labor and Delivery - Womens & Childrens - 1st floor,104,LRP
+Main - SG - NICU - Womens & Childrens - ground floor,104,SNU
+OP 2 - ACTN & ACT,105,ACT
+OP 1 - admin,105,ADM
+OP 4 - cardiology,105,CRD
+OP 4 - Cath Lab,105,CTH
+"OP 2 - lab, blood bank, hemotology, chemistry, microbiology",105,LAB
+OP 2 - pathology cyitology,105,LAB
+OP 2 - Ref Lab,105,LAB
+"OP G - rad oncology, rad physics, rad dosimetry, rad therapy, registration",105,OPG
+OP 1 - Sam Jones,105,SJN
+OP 3 - Stress Lab,105,STS
+Laurelwood Inpatient Units,106,LW1
+Laurelwood Inpatient Units,106,LW2
+Laurelwood Inpatient Units,106,LW3
+LPC - 2nd FL Bariatric,107,BAR
+LPC - 2nd Floor - Education Services,107,EDU
+LPC - Includes Lifeflight,107,EMS
+LPC - H.I.M. (Old Nova Care),107,HIM
+Hospice - Lanier Park,107,HSP
+LPC - LTC Includes New Horizon Lanier Park East & West,107,LTC
+GSV WOUND CARE,107,NGP
+LPC - Includes New Horizon Lanier Park - Pharmacy,107,NHZ
+LPC - Rehab,107,REH
+LPC - 1st Fl out patient Diabetes WOC,107,WOC
+Foundation / Hospice - HIM (Medical Records Area only),108,FOU
+Hospice - Limestone,108,HSP
+"New Horizons Limestone (Old New Horizons North) Unit 1, 2 & 3",109,NHN
+Essentially for Women,110,EFW
+Employee Pharmacy-see notes,110,EPH
+IT Training Rm - EFW,110,TRM
+Braselton Campus - ACT,111,ACT
+Braselton Campus - Med / Surg 1 East,111,B1E
+Braselton Campus - Med / Surg 1 West,111,B1W
+Braselton Campus - Med / Surg 2 East,111,B2E
+Braselton Campus - Med / Surg 2 West,111,B2W
+Braselton Campus - OR,111,BOR
+Braselton Campus - OR & Sterile Core,111,BOR
+Braselton Campus - Pharmacy,111,BPH
+Braselton - Dietary,111,CAF
+Braselton Campus - Cardiology,111,CAR
+Braselton Campus - Cath Lab 1 & 2,111,CAT
+Case Management BRS,111,CSM
+Braselton Campus - Dialysis,111,DYL
+Braselton Campus - Emergency,111,EMS
+Braselton Campus - ER Registration,111,ERG
+Braselton - EVS,111,EVS
+Braselton Campus - Financial Registration,111,FRG
+Braselton Campus - ICU,111,ICU
+Braselton Campus - Lab,111,LAB
+Braselton Loaner Laptops,111,LLP
+Braselton Campus - LDRP,111,LRP
+Braselton Campus - MC Radiology - Admin,111,MCR
+Braselton Campus - Main Reception desk,111,MRD
+Braselton Campus - Main Admissions,111,MRG
+Braselton Campus - NICU,111,NIC
+Braselton - Occ Health,111,OCC
+Braselton Campus - OR Waiting,111,ORW
+Braselton Campus - OR - Periop,111,POP
+Braselton Campus Breast Imaging,111,
+Braselton Campus Cath Lab,111,
+Braselton Campus Cath Lab Observation Unit,111,
+Braselton Campus CT,111,
+Braselton Campus Diag Imaging,111,
+Braselton Campus Echo Vascular,111,
+Braselton Campus IR Imaging,111,
+Braselton Campus IR Imaging,111,
+Braselton Campus IR Nursing,111,
+Braselton Campus MR Imaging,111,
+Braselton Campus NM Imaging,111,
+Braselton Campus US,111,
+Braselton Campus. NM,111,
+Barrow Pharmacy,112,BPH
+Barrow Public Relations,112,BPR
+Barrow Surgical Services,112,l
+Barrow Clinical Doc Specialist,112,CDI
+Barrow Case Management,112,CSM
+Barrow Emergency Department,112,EMS
+Barrow Environmental Services,112,EVS
+Barrow Food and Nutrition,112,FAN
+Barrow Accounting,112,FIN
+Barrow Health Info Management,112,HIM
+Barrow Human Resources,112,HRD
+Barrow ICU/Med Surg,112,ICM
+Barrow ICU/PCU (asst.),112,ICP
+Barrow Infection Control,112,IFC
+Barrow Medical Imaging,112,IMC
+Barrow Information Technology,112,ITS
+Barrow Laboratory,112,LAB
+Barrow Loaner Laptops,112,LLP
+Barrow Logistics,112,LOG
+Barrow Rehab Services - PT,112,OCM
+Barrow Business Development,112,PAC
+Barrow Plant Operations,112,PLO
+Barrow Risk/Quality Assurance,112,QCD
+Barrow Admissions,112,REG
+Barrow Respiratory Therapy,112,RSP
+Surgical Associates Employee Wellness,201,EWL
+NGPG BARIATRIC SURGERY GAINESVILLE,201,NGP
+NGPG Surgical Associates NGPG Surgical Associates,201,SUR
+Med Plaza 400 - Healthlink Lab,202,HL1
+Med Plaza 400 - DAW IC ADMIN IMAGING,202,IMC
+NGPG DAWSONVILLE INTERNAL MEDICINE,202,INT
+NGPG Med Plaza 400 - NGPG Dawsonville,202,NGP
+NGPG NEUROLOGY DAWSONVILLE,202,NRO
+NGPG ORTHOPEDIC SURGERY DAWSONVILLE,202,ORT
+NGPG SURGICAL ASSOCIATES DAWSONVILLE,202,SAS
+NGPG SPORTS MEDICINE DAWSONVILLE (aka Specialties),202,SPM
+NGPG THC DAWSONVILLE,202,THC
+NGPG THC DAWSONVILLE-CV,202,THC
+NGPG Med Plaza 400 - Urgent Care Dawsonville,202,URG
+NGPG UROLOGY DAWSONVILLE,202,URO
+NGPG Auburn,203,NGP
+NGPG NEUROPSYCHOLOGY,204,NSY
+"Oncology Research, Navigation, Registry",204,OCR
+NGPG Pallative Care,204,PLC
+NGPG Hall County Health Department - 2009,205,NGP
+NGPG  - Dahlonega - OB/GYN Lakeside,206,GYN
+Med Park 1 - Health Lab,207,HL1
+Med Park 1 - GSV IC ADMIN IMAGING,207,IMG
+Med Park 1 - GSV IC CT IMAGING,207,IMG
+Med Park 1 - GSV IC DIAG IMAGING,207,IMG
+Med Park 1 - GSV IC MR IMAGING,207,IMG
+Med Park 1 - GSV IC US IMAGING,207,IMG
+Med Park 1 - PHY BREAST IMAGING VIRTUAL,207,IMG
+Med Park 1 - PHY RADIOLOGY VIRTUAL,207,IMG
+Med Park 1 -GSV IC BREAST IMAGING,207,IMG
+Med Park 1 -GSV IC DX IMAGING,207,IMG
+Med Park 1 -GSV IC NM IMAGING,207,IMG
+Med Park1-GSV PET IMAGING,207,IMG
+NGPG INFECTIOUS DISEASE,207,INF
+NGPG INTERVENTIONAL PAIN MEDICINE GAINESVILLE,207,IPM
+Med Park - Suite 300 (3rd Floor),207,NGP
+NGPG NEUROLOGY GAINESVILLE,207,NRO
+NGPG NEUROSURGERY GAINESVILLE,207,NRS
+NGPG Heritage OB/GYN Gainesville,207,OBG
+NGPG ORTHOPEDIC SURGERY GAINESVILLE,207,ORT
+NGPG SPORTS MEDICINE MP1 GAINESVILLE,207,SPM
+NGPG UROLOGY GAINESVILLE,207,URO
+NGPG Dahlonega II (Internal Medicine),208,NGP
+NGPG BARIATRIC SURGERY BRASELTON,209,BSU
+NGPG CARDIOVASCULAR AND THORACIC SURGERY BRASELTON,209,CTS
+,209,GSU
+NGPG Med Plaza B - NGPG General Surgery & Vascular Surgery,son,IPM
+NGPG NEUROLOGY MPB BRASELTON,209,NRO
+NGPG NEUROSURGERY MPB BRASELTON,209,NRS
+NGPG OB/GYN BRASELTON,209,OBG
+NGPG ORTHOPEDIC SURGERY MPB BRASELTON,209,ORT
+NGPG THC BRASELTON,209,THC
+NGPG UROLOGY MPB BRASELTON,209,URO
+NGPG ALLERGY AND ASTHMA BRASELTON,210,AAB
+NGPG BRASELTON FAMILY MEDICINE,210,FAM
+NGPG Med Plaza 1 - NGPG Lakeside OB/GYN Braselton,210,GYN
+Med Plaza 1 - Riverplace Healthlink Lab,210,HL1
+Med Plaza 1 - Imaging Center,210,IMC
+NGPG Med Plaza 1 - Kidworks - Braselton,210,KID
+NGPG BRASELTON CLINIC,210,NGP
+Med Plaza 1 - Medical Center Pharmacy-see notes,210,PHM
+NGPG BRASELTON Psychiatry,210,PSY
+NGPG Med Plaza 1 - Regain.- Braselton,210,RGN
+Med Plaza 1 - Radiation Oncology,210,ROC
+NGPG Med Plaza 1 - Rehab Occ Med Braselton,210,ROM
+NGPG Med Plaza 1 - NGPG Sports Medicine Braselton,210,SPM
+NGPG Med Plaza 1 - NGPG Urgent Care,210,URG
+Toccoa Loaner Laptops,211,LLP
+Toccoa Cancer Center,211,TCC
+NGPG Jefferson,212,NGP
+"NGPG Thompson Bridge Rd- Unit 12, 13 & 14",213,NGP
+NGPG Wisteria - NGPG Trauma & Acute Care Surgery,214,ACS
+NGPG CARDIOVASCULAR AND THORACIC SURGERY GAINESVILLE,214,CTS
+Wisteria - OPCV - Gainesville - Echo/Vasc,214,CTS
+Wisteria - OPCV - Gainesville - Nuc Card,214,CTS
+Wisteria - OPCV - Gainesville - Stress,214,CTS
+NGPG THC Suite 480,214,HC4
+Wisteria THC Coders,214,HCC
+NGPG Wisteria - THC Suite 200,214,HC2
+NGPG VASCULAR SURGERY GAINESVILLE,214,NGP
+NGPG Wisteria - NGPG Cardiovascular Surgery,214,NGP
+NGPG Wisteria - NGPG OP Vascular Lab,214,NGP
+NGPG Wisteria - NGPG Surgical Associates Vascular Group,214,ORT
+NGPG Wisteria - NGPG Trauma & Acute Care Orthopedic Surgery,214,THC
+NGPG THC GAINESVILLE,214,THC
+THC RESEARCH,215,AAG
+NGPG Allergy & Asthma - Gainesville ( Dr Nish),216,GYN
+NGPG HERITAGE OB/GYN CLEVELAND,216,NGP
+NGPG Cleveland,216,NGP
+NGPG - Cleveland - Urgent Care,216,URG
+NGPG West Jackson (GPS Coordinates = 6289 Hwy 124),217,OCM
+NGPG OCCUPATIONAL MEDICINE - WEST JACKSON,218,NGP
+NGPG CUMMING,219,GYN
+NGPG Lakeside OB/GYN - Dawsonville,220,NGP
+NGPG Hamilton Mill,220,THC
+NGPG THC HAMILTON MILL,221,NGP
+NGPG Oakwood,221,NGP
+NGPG OAKWOOD,221,OCM
+NGPG Oakwood Rehab (Occupational Med?),222,NGP
+NGPG Buford,222,OCM
+NGPG Buford - Rehab (Occupational Med?),222,QCD
+NGPG Buford - NGPG Quality Dept,222,THC
+NGPG THC BUFORD,222,TMS
+NGPG Buford - Timeshare,223,OCM
+Friendship - Friendship Road Rehab,223,SPM
+NGPG Friendship -  NGPG Sports Medicine Buford0,223,URG
+NGPG Friendship - Urgent Care & Occ Med Buford,224,NGP
+NGPG Flowery Branch,225,NGP
+NGPG - Clayton - Family Med,226,NGP
+NGPG Clayton,226,PED
+NGPG Clayton Pediatrics,227,OCM
+NGPG Dawsonville Rehab,228,CPR
+NGPG Industrial Rehab / Quick Care - Cardio Pulminary Rehab,228,NGP
+NGPG GAINESVILLE CITY SCHOOLS,228,OCM
+GSV Industrial Rehab,229,NGP
+NGPG Family Health Associates (NGPG Winder),230,NGP
+NGPG - Cleveland - Rehab,230,RHB
+NGPG White County Rehab,231,NGP
+NGPG - Clayton - THC,231,THC
+NGPG Dacula - Ortho Surgery,232,NGP
+NGPG Dacula - Primary Care,232,NGP
+NGPG UC DACULA,233,NGP
+NGPG THC CUMMING,234,THC
+NGPG Dahlonega,234,NGP
+NGPG Dahlonega - Rehab Inst,234,RHB
+NGPG Gainesville II Family Med,235,FAM
+NGPG Gainesville I Internal Med,236,INT
+NGPG Urgent Care Dahlonega,236,URG
+NGPG - Lavonia - THC,237,THC
+NGPG Chestnut Mountain,239,NGP
+Thompson Mill MOB (Modulars) - Sleep Ctr & Occ Hlth,240,SLP
+1466 - NGPG Finance,240,NGP
+1466 - Sleep Center Gainesville,241,SLP
+NGPG Orthopedic Surgery Winder,241,ORT
+NGPG THC DAHLONEGA,242,THC
+THC - Blairsville,243,THC
+NGPG Gynecologic Oncology,244,GON
+GSV Satellite Infusion Center,245,INF
+Buford Imaging Center BFD IC ADMIN IMAGING,245,IMC
+Buford Imaging Center BFD IC DIAG IMAGING,245,IMC
+Buford Imaging Center BFD IC MR IMAGING,245,IMC
+Buford Imaging Center BFD IC US IMAGING,245,IMC
+NGPG Buford Imaging Center---is this NGHS Buford or NGPG Buford Physician office?,246,IMC
+Sherwood Plaza - IT Technical Trainers,246,ITS
+NGPG Industrial Rehab / Quick Care - NGPG Urgent Care Gainesville,247,URG
+NGPG Trauma Clinic ,248,TRA
+THC -  Habersham,249,THC
+THC - Toccoa,250,THC
+Toccoa Business / AR,250,ADM
+Toccoa Family Medicine,250,FAM
+Toccoa XRAY,250,IMC
+Toccoa Internal Medicine,250,INT
+Toccoa Lab,250,LAB
+Toccoa Med Access,250,MAC
+Toccoa Orthopedics,250,ORT
+Toccoa Pediatrics Wellness,250,PDW
+Toccoa Pediatrics,250,PED
+THC Toccoa,250,THC
+Toccoa Imaging,251,TIM
+Toccoa Foothills Administration,251,ADM
+Toccoa Foothills Family Medicine,251,FAM
+Toccoa Foothills CT / Imaging,251,IMC
+Toccoa Foothills Clinic OB/GYN,251,OBG
+Toccoa Foothills Urology,253,URO
+Lavonia Clinic Family Medicine,253,FAM
+Lavonia Clinic XRAY,253,IMC
+Lavonia Clinic Lab,253,LAB
+Lavonia Clinic Pediatrics,254,PED
+St. Marys Sacred Heart / LavoniaClinic Surgery,255,SUR
+Demorest Pediatrics,256,PED
+New Day Pediatrics,401,PED
+New Holland Building - Accounting and Finance,402,FIN
+Managed Care - N/A,402,MCA
+Public Relations,403,PRS
+Pawn Shop (construction) - n/a Facilities,404,FAC
+Corporate Plaza (Old Sams Building) - HIM (MedicaL Records,404,HIM
+Corporate Plaza - Business Support,404,PAC
+Corporate Plaza - Patient Access,404,PAC
+Corporate Plaza - UR review,404,PAC
+Corporate Plaza (Old Sams Building) - Resolute Billing,405,RBL
+White County EMS Building N/A,406,EMS
+LPC - Medical Transport N/A,408,EMS
+1405 - IT,408,ITS
+Helpdesk Loaner Laptops,409,LLP
+Foothills AHEC N/A,600,FOO
+NGPG SURGICAL ASSOCIATES BARROW,601,SUR
+NGMC Lumpkin,,
+NGPG INFECTIOUS DISEASE BRASELTON,,
+NGPG PALLIATIVE CARE,,
+GSV and BRS Resource Pools,,
+THC CUMMING-CV,,
+GSV ELECTROPHYSIOLOGY LAB,,
+GSV ENDOVASCULAR (EVOR),,
+OPCV - CUMMING - ECHO VASC,,
+OPCV - CUMMING - NUC CARD,,
+OPCV - CUMMING - STRESS,,
+OPCV - CUMMING - VASC,,
+Braselton - CDI,,
+Braselton - HIM,,
+MAIN - HIM Remotes,,
